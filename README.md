@@ -1,3 +1,16 @@
+
+## Github Access
+
+This app presents data of a github user through using axios from the github app, bootstrap and reactJS.
+
+Searching any user via the search bar, the corresponding information of the user appears.
+
+With this, You can see their profile details, their programming langauges used in projects and all of their repos.
+
+An added visualtion is used to help summarize and compare the sizes of all their repos. This can form a mental image of the workload involved and can be used as a software metric.
+
+![](Screen-Recording-.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
