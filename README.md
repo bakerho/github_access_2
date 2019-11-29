@@ -13,6 +13,8 @@ An added visualtion is used to help summarize and compare the sizes of all their
 
 Began committing to this repo [github_access](https://github.com/bakerho/github_access), but had problems with git so re-started with this current repo github_access_two.
 
+Reference to [hackernoon - github api ](https://hackernoon.com/building-github-profile-analytics-using-react-part-1-37e03b0c3366).
+
 ## Available Scripts
 
 In the project directory, you can run:
