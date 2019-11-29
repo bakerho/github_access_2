@@ -11,7 +11,7 @@ An added visualtion is used to help summarize and compare the sizes of all their
 
 ![](Screen-Recording-.gif)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Began committing to this repo [github_access](https://github.com/bakerho/github_access), but had problems with git so re-started with this current repo github_access_two.
 
 ## Available Scripts
 
